@@ -19,6 +19,12 @@
 	<url type="help">https://wiki.mumble.info/wiki/Main_Page</url>
 	<url type="donation">https://liberapay.com/mumble</url>
 	<url type="translate">https://wiki.mumble.info/wiki/Language_Translation</url>
+ 	<url type="vcs-browser">https://github.com/mumble-voip/mumble</url>
+    	<categories>
+    		<category>Network</category>
+    		<category>Qt</category>
+    		<category>Audio</category>
+  	</categories>
 	<launchable type="desktop-id">info.mumble.Mumble.desktop</launchable>
 	<screenshots>
 		<screenshot type="default">
